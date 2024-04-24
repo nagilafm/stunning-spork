@@ -1,2 +1,2 @@
 # stunning-spork
-Tests that always fail
+Tests that always fail - or that always passes.
